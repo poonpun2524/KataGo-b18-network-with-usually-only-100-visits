@@ -18,3 +18,23 @@ This project is a fully automated script to download, configure, and run [KataGo
 - ✅ One-line run with API key for gtp2ogs
 
 ---
+
+## License
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Copyright
+
+© 2025 Phiangphet Phanit (Poonpun)  
+You are free to use, modify, and distribute this script under the MIT License.  
+Attribution is appreciated but not required.
+
+---
+
+## Credits
+
+- [KataGo](https://github.com/lightvector/KataGo) by lightvector
+- [gtp2ogs](https://github.com/online-go/gtp2ogs) by Online-Go.com
